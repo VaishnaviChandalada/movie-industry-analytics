@@ -326,8 +326,8 @@ jupyter notebook
 
 For a detailed explanation of the methodology, statistical analysis, predictive modeling, and business recommendations, see:
 
-- 📘 **Full Project Report:** [Movie_Industry_Analytics_Report.pdf](reports/Movie_Industry_Analytics_Report.pdf)
-- 📊 **Presentation Slides:** [Presentation.pdf](reports/Presentation.pdf)
+- 📘 **Full Project Report:** [Movie_Industry_Analytics_Report.pdf](Movie_Industry_Analytics_Report.pdf)
+- 📊 **Presentation Slides:** [Presentation.pdf](Presentation.pdf)
 
 ---
 
